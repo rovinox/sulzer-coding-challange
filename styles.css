@@ -1,0 +1,46 @@
+html {
+background-image: url("./media/img_hero.jpg");
+background-repeat: no-repeat;
+  background-size: 100% 45%
+
+}
+.nav{
+    background:#4F4D53;
+    height: 48px;
+}
+li {
+    padding: 5px 0 0 30px ;
+    list-style-type: none;
+    font-size:30px;
+}
+.intro {
+color: Roboto Black;
+font-size: 100px;
+text-align: center;
+margin:150px  0 100px 0;
+}
+.employees{
+display: flex;
+justify-content: space-around;
+}
+h2 {
+text-align: center;
+font-size: 64px;
+color: #E8BE02;
+}
+p {
+ font-size: 20px;
+ color: #4F4D53;
+ text-align: center;
+ 
+
+}
+h3{
+    font-size: 20px;
+    color:#E8BE02;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background: #4F4D53;
+}
